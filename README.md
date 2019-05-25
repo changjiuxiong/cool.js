@@ -20,6 +20,7 @@ github停止更新，转移到码云：https://gitee.com/changjiuxiong/cool.js
 #### 使用说明
 
 1. demo地址：http://changjiuxiong.gitee.io/cool.js/
+2. github停止更新，转移到码云：https://gitee.com/changjiuxiong/cool.js
 
 #### 参与贡献
 
